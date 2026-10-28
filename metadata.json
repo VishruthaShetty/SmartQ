@@ -1,0 +1,6 @@
+{
+  "name": "SmartQueue — Less Waiting, Better Care",
+  "description": "Hospital queue management system designed to reduce unnecessary patient waiting, prevent overcrowding, improve queue visibility, and balance doctor workloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
